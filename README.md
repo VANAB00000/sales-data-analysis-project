@@ -1,11 +1,14 @@
 # 📊 Sales Data Analysis Project
 
+## 🔍 Problem Statement
+The objective of this project is to analyze sales data and identify key trends to help businesses improve revenue and decision-making.
+
 ## 🔍 Objective
 Analyze sales data to identify trends, top-performing categories, and business insights.
 
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib)
-- SQL (for analysis)
+- SQL
 
 ## 📊 Analysis Performed
 - Data cleaning (removed null values)
@@ -14,7 +17,11 @@ Analyze sales data to identify trends, top-performing categories, and business i
 
 ## 📈 Visualizations
 ![Graph 1](graph1.png)
+- Technology category has highest sales
+- Office Supplies show steady performance
 ![Graph 2](graph2.png)
+- Profit fluctuates across months
+- Some months show losses → needs improvement
 
 ## 💡 Key Insights
 - Technology category generated highest sales
