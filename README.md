@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Project
+# 📊 Business Sales Analysis using Python
 
 ## 🔍 Problem Statement
 The objective of this project is to analyze sales data and identify key trends to help businesses improve revenue and decision-making.
@@ -34,7 +34,7 @@ Analyze sales data to identify trends, top-performing categories, and business i
 - What are monthly sales trends?
 - 
 ## 🚀 Conclusion
-This project demonstrates data cleaning, analysis, and visualization skills useful for business decision-making.
+This project helps businesses understand sales patterns and improve decision-making using data analysis.
 
 ## 👤 Author
 Vanavasam Bhavya
