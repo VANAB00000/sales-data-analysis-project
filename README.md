@@ -27,7 +27,12 @@ Analyze sales data to identify trends, top-performing categories, and business i
 - Technology category generated highest sales
 - Some regions show low profit → improvement needed
 - Monthly trends show seasonal growth
-
+  
+## ❓ Business Questions
+- Which category generates highest revenue?
+- Which region performs best?
+- What are monthly sales trends?
+- 
 ## 🚀 Conclusion
 This project demonstrates data cleaning, analysis, and visualization skills useful for business decision-making.
 
