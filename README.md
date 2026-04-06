@@ -1,31 +1,28 @@
-# sales-data-analysis-project
+# 📊 Sales Data Analysis Project
 
-## Overview
-This project analyzes sales data using Python, SQL, and Power BI.
+## 🔍 Objective
+Analyze sales data to identify trends, top-performing categories, and business insights.
 
-## Tools Used
-- Python (Pandas)
-- SQL
-- Power BI
+## 🛠 Tools Used
+- Python (Pandas, Matplotlib)
+- SQL (for analysis)
 
-## Steps Performed
-- Data Cleaning
-- Data Analysis
-- Data Visualization
+## 📊 Analysis Performed
+- Data cleaning (removed null values)
+- Sales by category analysis
+- Profit trend analysis
 
-## Key Insights
-- Identified top-performing categories
-- Analyzed regional sales trends
-
-## Visualizations
-
-### Graph 1
+## 📈 Visualizations
 ![Graph 1](graph1.png)
-Graph 1 shows top 5 products by sales
-
-### Graph 2
 ![Graph 2](graph2.png)
-Graph 2 shows region wise sales
 
-## Author
+## 💡 Key Insights
+- Technology category generated highest sales
+- Some regions show low profit → improvement needed
+- Monthly trends show seasonal growth
+
+## 🚀 Conclusion
+This project demonstrates data cleaning, analysis, and visualization skills useful for business decision-making.
+
+## 👤 Author
 Vanavasam Bhavya
